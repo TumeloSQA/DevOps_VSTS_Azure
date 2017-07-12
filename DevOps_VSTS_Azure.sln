@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevOps_VSTS_Azure", "DevOps_VSTS_Azure\DevOps_VSTS_Azure.csproj", "{8A9D9967-787C-4591-90EB-780784B53C46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevOps_VSTS_Azure.Tests", "DevOps_VSTS_Azure.Tests\DevOps_VSTS_Azure.Tests.csproj", "{FD58F23A-24E4-4A9F-8D6F-DBDDB24D29FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A9D9967-787C-4591-90EB-780784B53C46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A9D9967-787C-4591-90EB-780784B53C46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A9D9967-787C-4591-90EB-780784B53C46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A9D9967-787C-4591-90EB-780784B53C46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD58F23A-24E4-4A9F-8D6F-DBDDB24D29FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD58F23A-24E4-4A9F-8D6F-DBDDB24D29FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD58F23A-24E4-4A9F-8D6F-DBDDB24D29FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD58F23A-24E4-4A9F-8D6F-DBDDB24D29FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
