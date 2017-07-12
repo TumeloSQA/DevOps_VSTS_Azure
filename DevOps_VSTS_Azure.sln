@@ -5,6 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevOps_VSTS_Azure", "DevOps
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevOps_VSTS_Azure.Tests", "DevOps_VSTS_Azure.Tests\DevOps_VSTS_Azure.Tests.csproj", "{FD58F23A-24E4-4A9F-8D6F-DBDDB24D29FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevOps_VSTS.WebApi", "DevOps_VSTS.WebApi\DevOps_VSTS.WebApi.csproj", "{621C81A7-013F-486B-8A2E-BD28290F776D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevOps_VSTS.WebApi.Tests", "DevOps_VSTS.WebApi.Tests\DevOps_VSTS.WebApi.Tests.csproj", "{1D3C16DF-C392-4DEE-8813-1AA0C534EDD8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,5 +23,13 @@ Global
 		{FD58F23A-24E4-4A9F-8D6F-DBDDB24D29FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD58F23A-24E4-4A9F-8D6F-DBDDB24D29FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD58F23A-24E4-4A9F-8D6F-DBDDB24D29FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{621C81A7-013F-486B-8A2E-BD28290F776D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{621C81A7-013F-486B-8A2E-BD28290F776D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{621C81A7-013F-486B-8A2E-BD28290F776D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{621C81A7-013F-486B-8A2E-BD28290F776D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D3C16DF-C392-4DEE-8813-1AA0C534EDD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D3C16DF-C392-4DEE-8813-1AA0C534EDD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D3C16DF-C392-4DEE-8813-1AA0C534EDD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D3C16DF-C392-4DEE-8813-1AA0C534EDD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
