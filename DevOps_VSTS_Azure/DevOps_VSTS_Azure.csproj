@@ -99,6 +99,7 @@
     <Content Include="Global.asax" />
     <Content Include="packages.config" />
     <Content Include="Views\EmployeeManagement\Index.cshtml" />
+    <Content Include="Views\EmployeeManagement\Create.cshtml" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ProjectExtensions>
