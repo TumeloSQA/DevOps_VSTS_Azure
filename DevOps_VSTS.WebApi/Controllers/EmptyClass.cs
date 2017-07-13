@@ -5,11 +5,6 @@ namespace DevOps_VSTS.WebApi.Controllers
     {
         public EmptyClass()
         {
-           public int ID
-        {
-            get;
-            set;
         }
-    }
     }
 }
