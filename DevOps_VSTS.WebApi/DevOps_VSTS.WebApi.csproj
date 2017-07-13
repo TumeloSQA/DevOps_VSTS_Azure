@@ -68,6 +68,7 @@
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Controllers\EmptyClass.cs" />
+    <Compile Include="Controllers\EmptyClassy.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
