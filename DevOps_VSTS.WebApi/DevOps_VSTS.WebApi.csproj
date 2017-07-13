@@ -69,6 +69,7 @@
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Controllers\EmptyClass.cs" />
     <Compile Include="Controllers\EmptyClassy.cs" />
+    <Compile Include="Controllers\jnhujhuj.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
