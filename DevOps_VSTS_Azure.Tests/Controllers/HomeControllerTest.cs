@@ -27,7 +27,7 @@ namespace DevOps_VSTS_Azure.Tests.Controllers
             var expectedVersion = mvcName.Version.Major + "." + mvcName.Version.Minor;
             var expectedRuntime = isMono ? "Mono" : ".NET";
 
-            // Assert
+            // Assert gujjbns
             Assert.AreEqual(expectedVersion, result.ViewData["Version"]);
             Assert.AreEqual(expectedRuntime, result.ViewData["Runtime"]);
         }

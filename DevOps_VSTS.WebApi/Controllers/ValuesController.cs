@@ -24,11 +24,13 @@ namespace DevOps_VSTS.WebApi.Controllers
 		// POST api/values
 		public void Post([FromBody]string value)
 		{
+             string msg = "Hey";
 		}
 
 		// PUT api/values/5
 		public void Put(int id, [FromBody]string value)
 		{
+           
 		}
 
 		// DELETE api/values/5
