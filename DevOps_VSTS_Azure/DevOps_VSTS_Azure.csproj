@@ -88,6 +88,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Models\Employee.cs" />
     <Compile Include="Controllers\EmployeeManagementController.cs" />
+    <Compile Include="Controllers\Controller.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Web.config" />
