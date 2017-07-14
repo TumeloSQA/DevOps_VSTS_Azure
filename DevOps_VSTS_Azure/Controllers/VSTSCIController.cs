@@ -6,7 +6,7 @@ using System.Web.Mvc;
 
 namespace DevOps_VSTS_Azure.Controllers
 {
-    public class Controller : Controller
+    public class VSTSCIController : Controller
     {
         public ActionResult Index()
         {
