@@ -24,7 +24,7 @@ namespace DevOps_VSTS.WebApi.Controllers
 		// POST api/values
 		public void Post([FromBody]string value)
 		{
-             string msg = "Hey";
+             //string msg = "Hey";
 		}
 
 		// PUT api/values/5
